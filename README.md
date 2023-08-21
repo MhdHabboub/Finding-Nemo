@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our captivating [YouTube video](https://youtu.be/DOCbke2Vd80).
+Welcome to our captivating [YouTube video](https://youtu.be/2yKI3wKOWyc).
 In this repository, we explore the fascinating world of Artificial Swarm Intelligence by using the Particle Swarm Optimization (PSO) algorithm to search for Nemo, the iconic clownfish, in the vast ocean. The provided Python code implements the PSO algorithm and visually demonstrates its search process through an animation.
 
 ## Table of Contents
